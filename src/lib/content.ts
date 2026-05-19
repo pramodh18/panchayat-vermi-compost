@@ -6,12 +6,12 @@ export const content = {
     en: "Hiramandalam Major Panchayat",
   },
   official: {
-    name: { te: "కె. సాయి ప్రసాద్",
-      //  en: "K. Sai Prasad"
-
-     },
+    name: {
+      te: "కె. సాయి ప్రసాద్",
+      en: "K. Sai Prasad",
+    },
     designation: {
-      // te: "కార్యనిర్వహణాధికారి (EO), హిరమండలం",
+      te: "కార్యనిర్వహణాధికారి (EO), హిరమండలం",
       en: "Executive Officer (EO), Hiramandalam",
     },
   },
@@ -29,11 +29,11 @@ export const content = {
   center: {
     name: {
       te: "వర్మీ కంపోస్ట్ విక్రయ కేంద్రం - (SWPC SHED) హిరమండలం",
-      // en: "Vermicompost Sales Center - (SWPC SHED) Hiramandalam",
+      en: "Vermicompost Sales Center - (SWPC SHED) Hiramandalam",
     },
     availability: {
       te: "లభ్యత: SWPC కేంద్రం, హిరమండలం",
-      // en: "Availability: SWPC Centre, Hiramandalam",
+      en: "Availability: SWPC Centre, Hiramandalam",
     },
   },
   campaign: {
