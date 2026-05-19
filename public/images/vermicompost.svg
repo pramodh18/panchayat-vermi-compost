@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" fill="none">
+  <rect width="400" height="400" rx="24" fill="#f3ebe0"/>
+  <rect x="80" y="120" width="240" height="200" rx="16" fill="#78350f" opacity="0.15"/>
+  <rect x="100" y="140" width="200" height="160" rx="12" fill="#92400e"/>
+  <ellipse cx="200" cy="200" rx="85" ry="50" fill="#451a03"/>
+  <ellipse cx="200" cy="195" rx="75" ry="42" fill="#5c2e0a"/>
+  <path d="M130 195 Q200 150 270 195" stroke="#a16207" stroke-width="3" fill="none"/>
+  <g fill="#22c55e">
+    <ellipse cx="160" cy="175" rx="12" ry="6" transform="rotate(-20 160 175)"/>
+    <ellipse cx="240" cy="180" rx="10" ry="5" transform="rotate(15 240 180)"/>
+    <ellipse cx="200" cy="165" rx="14" ry="7"/>
+  </g>
+  <text x="200" y="340" text-anchor="middle" font-family="system-ui,sans-serif" font-size="16" fill="#166534" font-weight="600">Organic Vermicompost</text>
+  <text x="200" y="362" text-anchor="middle" font-family="system-ui,sans-serif" font-size="13" fill="#15803d">8G&M0?/ 50M.@ *K8MM</text>
+</svg>

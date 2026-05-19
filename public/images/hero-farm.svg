@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400" fill="none">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#dcfce7"/>
+      <stop offset="100%" stop-color="#f0fdf4"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="400" fill="url(#sky)"/>
+  <ellipse cx="400" cy="380" rx="420" ry="60" fill="#bbf7d0" opacity="0.6"/>
+  <path d="M0 280 Q200 220 400 260 T800 240 L800 400 L0 400 Z" fill="#86efac"/>
+  <path d="M0 300 Q250 260 500 290 T800 270 L800 400 L0 400 Z" fill="#4ade80"/>
+  <circle cx="680" cy="80" r="50" fill="#fde047" opacity="0.9"/>
+  <g fill="#166534">
+    <rect x="120" y="200" width="8" height="80" rx="2"/>
+    <ellipse cx="124" cy="190" rx="35" ry="25"/>
+    <rect x="200" y="180" width="8" height="100" rx="2"/>
+    <ellipse cx="204" cy="168" rx="42" ry="30"/>
+    <rect x="600" y="210" width="8" height="70" rx="2"/>
+    <ellipse cx="604" cy="200" rx="32" ry="22"/>
+  </g>
+  <text x="400" y="360" text-anchor="middle" font-family="system-ui,sans-serif" font-size="18" fill="#166534" font-weight="600">Hiramandalam  Green Fields</text>
+</svg>
